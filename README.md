@@ -21,53 +21,38 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profil%20G%C3%B6r%C3%BCnt%C3%BClenme%20Say%C4%B1s%C4%B1-44-blue)
-
-![Lines of code](https://img.shields.io/badge/Merhaba%20D%C3%BCnya%27dan%20Beri%20Yaz%C4%B1yorum-360211%20kod%20sat%C4%B1r%C4%B1-blue)
-
-**🐱 Github Verilerim** 
-
-> 🏆 5 Katkı, 2021 Yılında
- > 
-> 📦 231.0 kB Github's Depolama Alanı Kullanıldı 
- > 
-> 🚫 Yeni Fırsatlara Açık Değil
- > 
-> 📜 13 Halka Açık Depolar 
- > 
-> 🔑 17 Özel Depolar  
- > 
-**Gece Kuşuyum 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Sabah      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
-🌆 Gündüz     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌃 Akşam      33 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
-🌙 Gece       31 commits     ██████████░░░░░░░░░░░░░░░   40.26%
+🌞 Morning    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+🌆 Daytime    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌃 Evening    33 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
+🌙 Night      31 commits     ██████████░░░░░░░░░░░░░░░   40.26%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Wednesday    28 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
+Thursday     11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Friday       21 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
 ```
 
 
-📊 **Bu Hafta Zamanımı Bunlara Harcadım** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Zaman Dilimi: Europe/Istanbul
-
-💬 Programlama Dilleri: 
-Bu Hafta İzlenen Etkinlik Yok
-
-🔥 Editörler: 
-Bu Hafta İzlenen Etkinlik Yok
-
-🐱‍💻 Projeler: 
-Bu Hafta İzlenen Etkinlik Yok
-
-💻 İşletim Sistemi: 
-Bu Hafta İzlenen Etkinlik Yok
+💬 Programming Languages: 
+No Activity Tracked This Week
 
 ```
 
-**Çoğunlukla Swift Kodluyorum** 
+**I Mostly Code in Swift** 
 
 ```text
 Swift                    10 repos            ███████████████░░░░░░░░░░   62.5% 
