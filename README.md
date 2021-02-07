@@ -55,11 +55,11 @@ No Activity Tracked This Week
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    16 repos            ██████████████████░░░░░░░   72.73% 
-Objective-C              2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Swift                    17 repos            ██████████████████░░░░░░░   73.91% 
+Objective-C              2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
