@@ -48,7 +48,7 @@ Sunday       5 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
