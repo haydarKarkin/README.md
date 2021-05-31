@@ -48,7 +48,7 @@ Sunday       73 commits     █████████░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
